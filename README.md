@@ -2,6 +2,9 @@
 
 A minimal reddit clone with complete user authetication, CRUD operations for posts and upvote/downvote functionality.
 
+![image](https://user-images.githubusercontent.com/79307894/229741557-c61becc5-f177-4883-965c-d1b1990836e5.png)
+
+
 TODO:
 - [x] Login, Register, Forget Password and Logout features
 - [x] Creating, Updating, Deleting Posts
